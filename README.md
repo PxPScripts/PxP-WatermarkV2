@@ -3,7 +3,7 @@ A new redesign of my other watermark
 ESX Watermark For FiveM
 
 ### Showcase
-In my discord
+https://imgur.com/vNhPey5
 
 ### Discord
 https://discord.gg/Xuepewxuer
