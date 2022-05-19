@@ -1,4 +1,4 @@
-# Pixel-WatermarkV2
+# PxP-WatermarkV2
 A new redesign of my other watermark
 ESX Watermark For FiveM
 
